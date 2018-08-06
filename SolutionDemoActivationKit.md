@@ -9,5 +9,3 @@ Machine Learning on Big Data	| TBD	| TBD   | TBD
 Deep Learning	| TBD	| TBD   | TBD
 Cognitive Search |	[JFK Files](https://jfk-demo.azurewebsites.net/)	| TBD   | [AzureSearch_JFK_Files](https://github.com/Microsoft/AzureSearch_JFK_Files)
 Cognitive Services	| [Intelligent Kiosk](https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?activetab=pivot%3aoverviewtab) | TBD   | [IntelligentKiosk](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
-
-![imageClassificationCIFAR-10](https://raw.githubusercontent.com/Azure/data-ai-iot/master/imageClassificationCIFAR-10/images/CIFAR-10.png)
