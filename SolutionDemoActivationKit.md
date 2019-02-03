@@ -1,18 +1,24 @@
 # Solution Demo Activation Kit
 
+### Quick Links
+
+[AI Ambassador Demos](#ai-ambassador-demos)
+
+[AI Technical Demos](#ai-technical-demos)
+
 ## AI Ambassador Demos
 
 Azure Service	| Demo Feature(s)	| Demo Name	| Where to Find	| Demo Script	| Demo Video
 |---    |---    |---    |---   |---    |---
-Face API, Emotion API	| Face Detection and Emotion	| Realtime Crowd Insights	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
+Face API; Emotion API	| Face Detection and Emotion	| Realtime Crowd Insights	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
 QnA Maker	| QnA Bot	| QnA Bot Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
 Search Service	| Knowledge Mining	| Cognitive Search Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
 Custom Vision	| Object Detection	| Custom Vision Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
 Custom Vision	| Image Classification	| Custom Vision Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
 Computer Vision	| Text Recognition	| Vision API Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
-Face, Custom Vision, Computer Vision	| AI App	| Microsoft Seeing AI	| [Apple App Store](https://www.microsoft.com/en-us/seeing-ai/)	| None	| [Get to know Seeing AI](https://www.microsoft.com/en-us/seeing-ai/)
+Face API; Custom Vision; Computer Vision	| AI App	| Microsoft Seeing AI	| [Apple App Store](https://www.microsoft.com/en-us/seeing-ai/)	| None	| [Get to know Seeing AI](https://www.microsoft.com/en-us/seeing-ai/)
 Not Sure	| AI App	| BD Briight	| Apple App Store; Google Play Store	| None	| None		
-Speech Service, Translator Text	AI | App	| Microsoft Translator	| Amazon; Apple App Store; Google Play Store; Windows Store | [Microsoft Translator Demo](https://microsoft.sharepoint.com/:w:/r/teams/AIGTMPortal/_layouts/15/Doc.aspx?sourcedoc=%7BF4778EBB-67EA-40B6-B029-4B185427BC73%7D&file=Microsoft%20Translator%20AI%20Demo%20-%20Ted%20Way%20Inspired.docx&action=default&mobileredirect=true)	| TBD
+Speech Service; Translator Text	API | App	| Microsoft Translator	| Amazon; Apple App Store; Google Play Store; Windows Store | [Microsoft Translator Demo](https://microsoft.sharepoint.com/:w:/r/teams/AIGTMPortal/_layouts/15/Doc.aspx?sourcedoc=%7BF4778EBB-67EA-40B6-B029-4B185427BC73%7D&file=Microsoft%20Translator%20AI%20Demo%20-%20Ted%20Way%20Inspired.docx&action=default&mobileredirect=true)	| TBD
 					
 
 ## AI Technical Demos
