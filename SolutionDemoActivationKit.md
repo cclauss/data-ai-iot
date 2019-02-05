@@ -20,7 +20,6 @@ Face API; Custom Vision; Computer Vision	| AI App	| Microsoft Seeing AI	| [Apple
 Not Sure	| AI App	| BD Briight	| Apple App Store; Google Play Store	| None	| [Video Here](https://msit.microsoftstream.com/video/3d941013-31c1-444b-bc4a-3a2f99a6e091)		
 Speech Service; Translator Text	API | App	| Microsoft Translator	| Amazon; Apple App Store; Google Play Store; Windows Store | [Microsoft Translator Demo](https://microsoft.sharepoint.com/:w:/r/teams/AIGTMPortal/_layouts/15/Doc.aspx?sourcedoc=%7BF4778EBB-67EA-40B6-B029-4B185427BC73%7D&file=Microsoft%20Translator%20AI%20Demo%20-%20Ted%20Way%20Inspired.docx&action=default&mobileredirect=true)	| [Browser Video Here](https://msit.microsoftstream.com/video/8d38311e-3ce5-459b-b7a6-9beec330eb22) [Mobile App Video Here](https://msit.microsoftstream.com/video/a72063a6-9e2d-4fe8-b225-cc829add7fb2)
 Microsoft Teams; QnA Maker; Web Chat Bot | App	| Microsoft Teams Mobile App	| Apple App Store; Google Play Store | TBD	| [Video Here](https://msit.microsoftstream.com/video/0abaf1e2-0bae-4fa7-bb87-7db838bf1454)
-QnA Maker; Web Chat Bot | Application	| AskHR	| [HRweb](https://microsoft.sharepoint.com/sites/hrw/Pages/myw2.aspx) | None	| TBD
 					
 
 ## AI Technical Demos
