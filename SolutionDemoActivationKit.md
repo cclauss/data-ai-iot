@@ -6,6 +6,8 @@
 
 [AI Technical Demos](#ai-technical-demos)
 
+[AI Reference Architectures](#ai-reference-architectures)
+
 ## AI Ambassador Demos
 
 Azure Service	| Demo Feature(s)	| Demo Name	| Where to Find	| Demo Script	| Demo Video
@@ -35,3 +37,16 @@ Deep Learning	| [MML for Apache Spark](https://aka.ms/spark)	| [CIFAR-10](https:
 Knowledge Mining |	[Wolters Kluwer](https://wolterskluwereap.azurewebsites.net/); Demo Script: [Wolters Kluwer Demo Script](https://microsoft.sharepoint.com/:w:/t/AIGTMPortal/EYhmVgQSMjJAp0-tUtBjHsMBkM-Ev8JotiBDFWFUQmUldw?e=zbI9Gv) 	| [JFK Files](https://jfk-demo.azurewebsites.net/)   | [AzureSearch_JFK_Files](https://github.com/Microsoft/AzureSearch_JFK_Files) [LearnAI-Knowledge Mining Bootcamp](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
 Cognitive Services	| [Intelligent Kiosk](https://www.microsoft.com/en-us/p/intelligent-kiosk/9nblggh5qd84?activetab=pivot%3aoverviewtab) | [CustomVision.ai](https://customvision.ai/)   | [IntelligentKiosk](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
 IoT 	| [Vulcan Steel AML Edge ](https://azureedgedemo.azurewebsites.net/login); Demo Script: [Vulcan Steel Demo Script](https://microsoft.sharepoint.com/sites/infopedia/AddIns/CardViewer/viewer.aspx?cid=G01KC-1-37215) | [MXDial IoT DevKit](https://github.com/Microsoft/MXDial-IoT-Sample/)   | [MXDial IoT DevKit](https://github.com/Microsoft/MXDial-IoT-Sample/)
+
+
+## AI Reference Architectures
+
+Use Case	| A Ref Arch Name	| Diagram | GitHub Repos
+|---    |---    |---    |---
+Deep Learning | Distributed training of deep learning models on Azure | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/distributed_dl_architecture.png) | [GitHub](https://github.com/Azure/DistributedDeepLearning/)
+Deep Learning | Batch scoring on Azure for deep learning models | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/batch-ai-deep-learning.png) | [GitHub](https://github.com/Azure/batch-scoring-for-dl-models)
+Deep Learning | Real-time scoring of Python Scikit-Learn and deep learning models on Azure | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/python-model-architecture.png) | [Regular Python models](https://github.com/Microsoft/MLAKSDeployAML) [Deep learning models](https://github.com/Microsoft/AKSDeploymentTutorial_AML)
+Machine Learning | Batch scoring of Python models on Azure | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/batch-scoring-python.png) | [GitHub](https://github.com/Azure/BatchAIAnomalyDetection)
+Machine Learning | Real-time scoring of R machine learning models | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/realtime-scoring-r.png) | [GitHub](https://github.com/Azure/RealtimeRDeployment)
+AI Agents | Enterprise-grade conversational bot | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/conversational-bot.png) | [GitHub](https://github.com/Microsoft/botbuilder-utils-js)
+Recommendation | Build a real-time recommendation API on Azure | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/recommenders-architecture.png) | [GitHub](https://github.com/Microsoft/Recommenders/blob/master/notebooks/04_operationalize/als_movie_o16n.ipynb)
