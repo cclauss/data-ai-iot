@@ -50,3 +50,7 @@ Machine Learning | Batch scoring of Python models on Azure | [Diagram](https://r
 Machine Learning | Real-time scoring of R machine learning models | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/realtime-scoring-r.png) | [GitHub](https://github.com/Azure/RealtimeRDeployment)
 AI Agents | Enterprise-grade conversational bot | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/conversational-bot.png) | [GitHub](https://github.com/Microsoft/botbuilder-utils-js)
 Recommendation | Build a real-time recommendation API on Azure | [Diagram](https://raw.githubusercontent.com/mspnp/architecture-center/master/docs/reference-architectures/ai/_images/recommenders-architecture.png) | [GitHub](https://github.com/Microsoft/Recommenders/blob/master/notebooks/04_operationalize/als_movie_o16n.ipynb)
+
+
+
+### Note: Azure documentation on these AI Reference Architectures is available [Here](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai)
