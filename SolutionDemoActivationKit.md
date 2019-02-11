@@ -12,16 +12,16 @@
 
 Azure Service	| Demo Feature(s)	| Demo Name	| Where to Find	| Demo Script	| Demo Video
 |---    |---    |---    |---   |---    |---
-Face API; Emotion API	| Face Detection and Emotion	| Realtime Crowd Insights	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
-QnA Maker	| QnA Bot	| QnA Bot Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
+Face API; Emotion API	| Face Detection and Emotion	| Realtime Crowd Insights	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| [Video](https://microsoft.sharepoint.com/teams/IntelligentKiosk/Documentation%20Wiki/RealTime%20Crowd%20Insights.aspx)
+QnA Maker	| QnA Bot	| QnA Bot Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| [Video](https://microsoft.sharepoint.com/teams/IntelligentKiosk/Documentation%20Wiki/QnA%20Bot%20Explorer.aspx)
 Search Service	| Knowledge Mining	| Cognitive Search Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
-Custom Vision	| Object Detection	| Custom Vision Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
-Custom Vision	| Image Classification	| Custom Vision Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
-Computer Vision	| Text Recognition	| Vision API Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| TBD
+Custom Vision	| Object Detection	| Custom Vision Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| [Video](https://microsoft.sharepoint.com/teams/IntelligentKiosk/Documentation%20Wiki/Custom%20Vision%20Explorer.aspx)
+Custom Vision	| Image Classification	| Custom Vision Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| [Video](https://microsoft.sharepoint.com/teams/IntelligentKiosk/Documentation%20Wiki/Custom%20Vision%20Explorer.aspx)
+Computer Vision	| Text Recognition	| Vision API Explorer	| [Intelligent Kiosk](http://aka.ms/KioskApp)	| TBD	| [Video](https://microsoft.sharepoint.com/teams/IntelligentKiosk/Documentation%20Wiki/Vision%20API%20Explorer.aspx)
 Face API; Custom Vision; Computer Vision	| AI App	| Microsoft Seeing AI	| [Apple App Store](https://www.microsoft.com/en-us/seeing-ai/)	| None	| [Get to know Seeing AI](https://www.microsoft.com/en-us/seeing-ai/)
-Not Sure	| AI App	| BD Briight	| Apple App Store; Google Play Store	| None	| [Video Here](https://msit.microsoftstream.com/video/3d941013-31c1-444b-bc4a-3a2f99a6e091)		
-Speech Service; Translator Text	API | App	| Microsoft Translator	| Amazon; Apple App Store; Google Play Store; Windows Store | [Microsoft Translator Demo](https://microsoft.sharepoint.com/:w:/r/teams/AIGTMPortal/_layouts/15/Doc.aspx?sourcedoc=%7BF4778EBB-67EA-40B6-B029-4B185427BC73%7D&file=Microsoft%20Translator%20AI%20Demo%20-%20Ted%20Way%20Inspired.docx&action=default&mobileredirect=true)	| [Browser Video Here](https://msit.microsoftstream.com/video/8d38311e-3ce5-459b-b7a6-9beec330eb22) [Mobile App Video Here](https://msit.microsoftstream.com/video/a72063a6-9e2d-4fe8-b225-cc829add7fb2)
-Microsoft Teams; QnA Maker; Web Chat Bot | App	| Microsoft Teams Mobile App	| Apple App Store; Google Play Store | TBD	| [Video Here](https://msit.microsoftstream.com/video/0abaf1e2-0bae-4fa7-bb87-7db838bf1454)
+Not Sure	| AI App	| BD Briight	| Apple App Store; Google Play Store	| None	| [Video](https://msit.microsoftstream.com/video/3d941013-31c1-444b-bc4a-3a2f99a6e091)		
+Speech Service; Translator Text	API | App	| Microsoft Translator	| Amazon; Apple App Store; Google Play Store; Windows Store | [Microsoft Translator Demo](https://microsoft.sharepoint.com/:w:/r/teams/AIGTMPortal/_layouts/15/Doc.aspx?sourcedoc=%7BF4778EBB-67EA-40B6-B029-4B185427BC73%7D&file=Microsoft%20Translator%20AI%20Demo%20-%20Ted%20Way%20Inspired.docx&action=default&mobileredirect=true)	| [Browser Video](https://msit.microsoftstream.com/video/8d38311e-3ce5-459b-b7a6-9beec330eb22) [Mobile App Video](https://msit.microsoftstream.com/video/a72063a6-9e2d-4fe8-b225-cc829add7fb2)
+Microsoft Teams; QnA Maker; Web Chat Bot | App	| Microsoft Teams Mobile App	| Apple App Store; Google Play Store | TBD	| [Video](https://msit.microsoftstream.com/video/0abaf1e2-0bae-4fa7-bb87-7db838bf1454)
 					
 
 ## AI Technical Demos
