@@ -2,11 +2,36 @@
 
 ### Quick Links
 
+[AI Industry Demos](#ai-industry-demos)
+
 [AI Ambassador Demos](#ai-ambassador-demos)
 
 [AI Technical Demos](#ai-technical-demos)
 
 [AI Reference Architectures](#ai-reference-architectures)
+
+## AI Industry Demos
+
+Industry / Horizontal	| Use Case	| Demo Name	| Demo Link	| Demo Userid and Password	| Demo Script   | Demo Slides	| Demo Images	| Demo Video	| Demo GitHub Repos	| Notes
+|---    |---    |---    |---   |---    |---    |---    |---    |---   |---    |---
+Financial Services	| AI Agents	| Liteware Bank	|   https://banking.litwaredemos.com/	|   Username: Bot Password: Azure	|   N/A		|   N/A	|   N/A |   N/A	|   N/A |   Hit the up arrow to see what to type next
+Financial Services	|   AI Agents	|   Litware Insurance	|   https://insurance.litwaredemos.com/	|   Username: Bot Password: Azure	 |  [Liteware Insurance Bot Demo Script](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/kcdoc.aspx?k=g01kc-1-29819)	|   N/A	|   [Ford Fusion Demo Image](https://raw.githubusercontent.com/Azure/data-ai-iot/master/images/Fusion.jpg)	|   N/A	|   N/A	|   Hit the up arrow to see what to type next
+Healthcare	| Knowledge Mining	|   US Clinical Trials	|   http://documentsearch.azurewebsites.net/	| N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   Choose US Clinical Trials (Healthcare) from the Choose a dataset dropdown and click View Demo
+Healthcare	|   Knowledge Mining	|   Web Med Search Demo	|   http://webmedsearch.azurewebsites.net/	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   [medical-ner-search](https://github.com/liamca/medical-ner-search)	|   Expect a "The resource cannot be found." error when clicking on the document links
+Human Resources	|   AI Agents	|   AskHR	|   https://teams.microsoft.com	|   Username: msdemo@askhr.com Password: askhrdemo1!	|   [AskHR WW AI Demo Script - Updated 2019](https://microsoft.sharepoint.com/:w:/t/AIGTMPortal/EcbRiuxE2L9FrdbbGloyHTcBtwkkxh3tn020Qx0kTYoYhg?e=OoAL2J)	|   [AskHR Demo Intro Slides](https://microsoft.sharepoint.com/:p:/t/AIGTMPortal/EQl6lsLtKKFBmQmr-GY7hFcBzuo-7Kzupc5K4GxTlS_laA?e=XWCQIK)	|   N/A	|   N/A	|   N/A	|   Must use an inprivate or incognito browser session and interact with Teams in the browser client
+Human Resources	|   Knowledge Mining	|   NYC Jobs	|   http://documentsearch.azurewebsites.net/	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   Choose NYC Jobs (Job search using old NYC job data) from the Choose a dataset dropdown and click View Demo
+Information Services	|   Knowledge Mining	|   Wolters Kluwer	|   https://wolterskluwereap.azurewebsites.net/	|   |   N/A	|   [Wolters Kluwer Demo Script](https://microsoft.sharepoint.com/:w:/t/AIGTMPortal/EYhmVgQSMjJAp0-tUtBjHsMBkM-Ev8JotiBDFWFUQmUldw?e=zbI9Gv)	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A
+Legal	|   Knowledge Mining	|   US Court of Appeals Distict 1	|   http://documentsearch.azurewebsites.net/	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   Choose US Court of Appeals District 1 (Legal) from the Choose a dataset dropdown and click View Demo
+Manufacturing	|   AI Agents	|   Liteware Manufacturing	|   https://manufacturing.litwaredemos.com/	|   Username: Bot Password: Azure	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   Hit the up arrow to see what to type next
+Manufacturing	|   IoT	|   Vulcan Steel AML Edge	|   https://azureedgedemo.azurewebsites.net/login	|   Enter any text into username and password field	|   [Vulcan Steel Demo Script](https://microsoft.sharepoint.com/sites/infopedia/AddIns/CardViewer/viewer.aspx?cid=G01KC-1-37215)	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A
+Media	|   Knowledge Mining	|   MSN	|   http://documentsearch.azurewebsites.net/	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   Choose MSN (News) from the Choose a dataset dropdown and click View Demo
+Oil and Gas	|   Knowledge Mining	|   Seismic Search	|   http://seismicsearch.azurewebsites.net/	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   N/A	|   It relates to seismic in the Oil and Gas domain.  Try "Kundsen" or "Chirp" as search terms. 
+Retail	|   AI Agents	|   Litware Lifestyle	|   https://retail.litwaredemos.com/en-us	|   Username: Bot Password: Azure	|   N/A	|   N/A	|   [Watch Demo Image](https://raw.githubusercontent.com/Azure/data-ai-iot/master/images/smart-retail-watch-male.jpg)	|   N/A	|   N/A	|   Hit the up arrow to see what to type next
+
+
+
+
+
 
 ## AI Ambassador Demos
 
